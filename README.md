@@ -14,4 +14,4 @@ Some imperative technical parts were :
 
 [Subject](./B-SYN-400_abstractVM.pdf)
 
-*This project was done in the span of 4 full days of work as part of EPITECH's 2nd year synthesis pool*
+*This project was done in 4 days of work as part of EPITECH's 2nd year synthesis pool*
