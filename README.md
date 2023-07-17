@@ -13,3 +13,5 @@ Some imperative technical parts were :
 - The program must not use any `libc` functions except for those that encapsulate syscalls that have no equivalent in C++
 
 [Subject](./B-SYN-400_abstractVM.pdf)
+
+*This project was done in the span of 4 full days of work as part of EPITECH's 2nd year synthesis pool*
